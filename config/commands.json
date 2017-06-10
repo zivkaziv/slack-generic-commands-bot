@@ -12,7 +12,12 @@
 		"help": "gem [gem-name]",
 		"description": "Fetches details of the specified Ruby gem"
 	},
-
+	"translate" : {
+		"alias": [ "tr" ],
+		"endpoint": "#",
+		"help": "tr [text]",
+		"description": "To get translation from en to de"
+	},
 	"error": {
 		"exclude": true
 	}
